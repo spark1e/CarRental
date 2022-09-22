@@ -7,12 +7,12 @@ github.com/spark1e
 
 Project repo: github.com/spark1e/CarRental
 
-This project is an autharization form for user log in. Program checks if username and password entered by user are
-matched with any record in the database. Error window is displaid if username/password fields are empty or log in 
-is failed. Window is draggable and user can use tab and enter keys on textboxs. New user is added to the local 
-database with Register Form. This form checks if username already exists. Password requirements will be implemented
-in the next version of this program. Local SQL database is used to store user information. SQL connection and query
-are used in the code. GUI is decigned using C++/CLI .NET for Visual Studio 2022. 
+This project is an authorization form for user login. Program checks if the username and password entered by the user
+are matched with any record in the database. Error window is displayed if username/password fields are empty or login
+is failed. The window is draggable and users can use the tab and enter keys on textboxes. The new user is added to 
+the local database with Register Form. This form checks if the username already exists. Password requirements will be
+implemented in the next version of this program. A local SQL database is used to store user information. SQL connection
+and query are used in the code. GUI is designed using C++/CLI .NET for Visual Studio 2022. 
 
 
 - Log In Form
